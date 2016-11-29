@@ -1,5 +1,11 @@
 # SpringBenchmarks
+
+Playing with Spring Framework. Probably doing lots of things badly... don't use this code for anything. 
+It's for me to get access to it from diffrent machines. 
+
 Personal benchmarks of the Spring Framework.
+
+
 
 
                        .____.      _____         ......   .....
